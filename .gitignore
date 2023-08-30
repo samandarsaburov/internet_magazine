@@ -37,6 +37,7 @@ media
 .idea/**/dbnavigator.xml
 images/
 images
+images
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
