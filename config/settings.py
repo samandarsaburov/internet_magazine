@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'orders',
     'drf_yasg',
     'products',
     'rest_framework_simplejwt',
